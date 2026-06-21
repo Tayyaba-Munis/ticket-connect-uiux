@@ -16,7 +16,7 @@ UI/UX Designer & Prototyping
 - Optimize seat selection & checkout flow
   
 ## 🖼️ Screens
-Below are some screenshots of the application screens.  
+Some screenshots of the application screens are shown. 
 For a detailed view and full walkthrough, please click the link below.
 
 ## 🔗 Live Prototype
