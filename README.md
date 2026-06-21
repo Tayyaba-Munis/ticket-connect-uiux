@@ -16,12 +16,8 @@ UI/UX Designer & Prototyping
 - Optimize seat selection & checkout flow
   
 ## 🖼️ Screens
-- Home  
-- Events  
-- Event Details  
-- Seat Selection  
-- Payment  
-- Confirmation  
+Below are some screenshots of the application screens.  
+For a detailed view and full walkthrough, please click the link below.
 
 ## 🔗 Live Prototype
 
